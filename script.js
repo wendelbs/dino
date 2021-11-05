@@ -59,6 +59,5 @@ let leftInterval = setInterval(() => {
 
     setTimeout(createCactus, randomTime);
 }
- 
 createCactus();
 document.addEventListener('keyup', handleKeyUp);
